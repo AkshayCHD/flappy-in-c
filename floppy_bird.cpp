@@ -1,7 +1,7 @@
 #include<stdio.h>//hello 
-#include<conio.h>
+#include<conio.h>//for getch() and kbhit()
 #include<windows.h>
-#include<stdlib.h>
+#include<stdlib.h> 
 #include<time.h>
 #include<string.h>
 
